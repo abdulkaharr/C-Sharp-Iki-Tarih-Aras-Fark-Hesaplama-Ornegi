@@ -1,0 +1,10 @@
+C:\Users\mehmet\source\repos\DateTimePickerOrnek\DateTimePickerOrnek\bin\Debug\DateTimePickerOrnek.exe.config
+C:\Users\mehmet\source\repos\DateTimePickerOrnek\DateTimePickerOrnek\bin\Debug\DateTimePickerOrnek.exe
+C:\Users\mehmet\source\repos\DateTimePickerOrnek\DateTimePickerOrnek\bin\Debug\DateTimePickerOrnek.pdb
+C:\Users\mehmet\source\repos\DateTimePickerOrnek\DateTimePickerOrnek\obj\Debug\DateTimePickerOrnek.csprojAssemblyReference.cache
+C:\Users\mehmet\source\repos\DateTimePickerOrnek\DateTimePickerOrnek\obj\Debug\DateTimePickerOrnek.Form1.resources
+C:\Users\mehmet\source\repos\DateTimePickerOrnek\DateTimePickerOrnek\obj\Debug\DateTimePickerOrnek.Properties.Resources.resources
+C:\Users\mehmet\source\repos\DateTimePickerOrnek\DateTimePickerOrnek\obj\Debug\DateTimePickerOrnek.csproj.GenerateResource.cache
+C:\Users\mehmet\source\repos\DateTimePickerOrnek\DateTimePickerOrnek\obj\Debug\DateTimePickerOrnek.csproj.CoreCompileInputs.cache
+C:\Users\mehmet\source\repos\DateTimePickerOrnek\DateTimePickerOrnek\obj\Debug\DateTimePickerOrnek.exe
+C:\Users\mehmet\source\repos\DateTimePickerOrnek\DateTimePickerOrnek\obj\Debug\DateTimePickerOrnek.pdb
