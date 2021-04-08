@@ -1,2 +1,1 @@
-# C-Sharp-Iki-Tarih-Aras-Fark-Hesaplama-Ornegi
-Bu Örnekte C# Windows Forms ile İki Tarih Arası Fark Hesaplamayı Yaptım
+Kodlar sade ve anlaşılır. kodların yan tarafında yorum satırı ile açıklaması mevcuttur.
